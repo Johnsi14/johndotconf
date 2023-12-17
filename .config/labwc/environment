@@ -65,3 +65,6 @@ XCURSOR_THEME=Breeze_Default
 ##
 
 # XDG_CURRENT_DESKTOP=wlroots
+## Makes Cursors work in Virtual Machines
+
+WLR_NO_HARDWARE_CURSORS=1
