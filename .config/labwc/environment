@@ -35,7 +35,7 @@ XKB_DEFAULT_LAYOUT=ch
 
 XCURSOR_THEME=Breeze_Default
 # XCURSOR_THEME=capitaine-cursors
-# XCURSOR_SIZE=24
+# XCURSOR_SIZE=18
 
 ##
 ## Disable hardware cursors. Most users would not want to do this, but if you
