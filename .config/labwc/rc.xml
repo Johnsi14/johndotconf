@@ -27,6 +27,9 @@
       Remove a previously defined keybind
       A shorter alternative is <keybind key="W-F4" />
     -->
+    <keybind key="W-a">
+      <action name="Execute" command="/bin/wofi" />
+    </keybind>
     <keybind key="W-F4">
       <action name="None" />
     </keybind>

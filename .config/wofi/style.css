@@ -1,0 +1,54 @@
+#window {
+    background-color: rgb(15, 5, 15);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color:rgb(245, 124, 0);
+    font-family: Azeret-mono;
+}
+#outer-box {
+    border-color: rgb(170, 255, 50);
+    border-style: solid;
+    border-width: 4px;
+}
+#input{
+    padding: 5px;
+    padding-left: 15px;
+    background-color: rgb(15, 5, 25);
+    border-style: solid;
+    border-radius: 0px;
+    border-bottom-width: 10px;
+    border-color: black;
+    color: rgb(245, 124, 0)
+}
+
+#entry {
+    background-color: rgb(15, 5, 15);
+    padding-bottom: 5px;
+}
+
+#img{ 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#entry:selected {
+    outline-style: none;
+    background-color: rgb(75, 25, 75);
+}
+
+#text:selected {
+    color: rgb(170, 255, 50);
+}
+
+
+
+/*
+colors: 
+border/selected text: #0A320F: rgb(170, 255, 50)
+background: #0F050F: rgb(15, 5, 15)
+background-entry1:#14050F: rgb(20, 5, 15)
+background-entry2:#0F0A0F: rgb(15, 10, 15)
+background-input:#0F0519: rgb(15, 5, 25)
+text: #F57C00: rgb(245, 124, 0)
+
+*/
